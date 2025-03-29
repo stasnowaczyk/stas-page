@@ -17,6 +17,8 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
   </header>
 
+  <Button label="Click Me" />
+
   <RouterView />
 </template>
 
